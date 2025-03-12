@@ -18,13 +18,13 @@ Para rodar o projeto localmente, siga os passos abaixo:
 1. 📂 Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/devpovoa/My_Portfolio_Web.git
    ```
 
 2. 📁 Acesse a pasta do projeto:
 
    ```bash
-   cd nome-do-projeto
+   cd My_Portfolio_Web
    ```
 
 3. 📦 Instale as dependências:
